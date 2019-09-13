@@ -1,0 +1,2 @@
+# Hotel_Management_Project
+This project is created using C# and MySQL as programming languages and also XAMPP,phpMyAdmin for creating and administrating the database. It is a Windows Forms Application in which a user can manage a hotel (rooms,clients and reservations) if he logs in using a special username and password. I have used a tutorial for this program and I have slowly discovered a lot of new things about Visual Studio, C# and SQL. This is one of my very first projects in OOP. 
